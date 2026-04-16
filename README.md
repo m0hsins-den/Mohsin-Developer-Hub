@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙈𝙤𝙝𝙨𝙞𝙣</h1>
 <h3 align="center">A frontend developer working,learning and helping,all the way from pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin-developer-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin-developer-hub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin-developer-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin-Developer-Hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-developer-hub" alt="mohsin-developer-hub" /></a> </p>
 
