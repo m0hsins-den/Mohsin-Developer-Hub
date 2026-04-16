@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm 𝙈𝙤𝙝𝙨𝙞𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h1>
+<h1 align="center">Hi 👋, I'm 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙈𝙤𝙝𝙨𝙞𝙣</h1>
 <h3 align="center">A frontend developer working,learning and helping,all the way from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin-developer-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin-developer-hub" /> </p>
