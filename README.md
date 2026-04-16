@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hsins-denhub&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin-Developer-Hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-developer-hub" alt="mohsin-developer-hub" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0hsins-den" alt="m0hsins-den" /></a> </p>
 
 - 🌱 I’m currently learning **Github**
 
